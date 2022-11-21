@@ -1,0 +1,98 @@
+Id,Pavadinimas,Autorius,Žanras,Įvertinimas,Puslapių skaičius,Leidėjas
+1,Fundamentals of Wavelets,Jaideva Goswami,signal_processing,4.61,514,Wiley
+2,Data Smart,John Foreman,data_science,2.06,309,Wiley
+3,God Created the Integers,Stephen Hawking,mathematics,1.92,426,Penguin
+4,Superfreakonomics,Stephen Dubner,economics,2.18,470,HarperCollins
+5,Orientalism,Edward Said,history,1.77,547,Penguin
+6,"Nature of Statistical Learning Theory The",Vladimir Vapnik,data_science,3.18,552,Springer
+7,Integration of the Indian States,V P Menon,history,2.29,589,Orient Blackswan
+8,"Drunkard's Walk The",Leonard Mlodinow,science,2.13,447,Penguin
+9,Image Processing & Mathematical Morphology,Frank Shih,signal_processing,2.77,298,CRC
+10,How to Think Like Sherlock Holmes,Maria Konnikova,psychology,1.68,261,Penguin
+11,Data Scientists at Work,Gutierre ebastian,data_science,2.79,361,Apress
+12,Slaughterhouse Five,Kurt Vonnegut,fiction,1.81,102,Random House
+13,Birth of a Theorem,Cedric Villani,mathematics,1.05,365,Bodley Head
+14,Structure & Interpretation of Computer Programs,Gerald Sussman,computer_science,2.69,215,MIT Press
+15,"Age of Wrath The",Abraham Eraly,history,1.57,517,Penguin
+16,"Trial The",Frank Kafka,fiction,2.95,444,Random House
+17,Statistical Decision Theory',John Pratt,data_science,3.97,579,MIT Press
+18,Data Mining Handbook,Robert Nisbet,data_science,4.04,336,Apress
+19,"New Machiavelli The",H. G. Wells,fiction,3.81,276,Penguin
+20,Physics & Philosophy,Werner Heisenberg,science,1.56,369,Penguin
+21,Making Software,Andy Oram,computer_science,2.24,127,O'Reilly
+22,"Analysis Vol I",Terence Tao,mathematics,2.82,334,HBA
+23,Machine Learning for Hackers,Drew Conway,data_science,2.09,235,O'Reilly
+24,"Signal and the Noise The",Nate Silver,data_science,1.34,505,Penguin
+25,Python for Data Analysis,Wes McKinney,data_science,3.32,363,O'Reilly
+26,Introduction to Algorithms,Thomas Cormen,computer_science,2.09,391,MIT Press
+27,"Beautiful and the Damned The",Siddhartha Deb,nonfiction,2.74,506,Penguin
+28,"Outsider The",Albert Camus,fiction,3.66,436,Penguin
+29,"Complete Sherlock Holmes The - Vol I",Arthur Conan Doyle,fiction,3.37,417,Random House
+30,"Complete Sherlock Holmes The - Vol II",Arthur Conan Doyle,fiction,1.82,136,Random House
+31,"Wealth of Nations The",Adam Smith,economics,3.66,353,Random House
+32,"Pillars of the Earth The",Ken Follett,fiction,1.6,336,Random House
+33,Mein Kampf,Adolf Hitler,nonfiction,3.73,118,Rupa
+34,"Tao of Physics The",Fritjof Capra,science,3.72,522,Penguin
+35,Surely You're Joking Mr Feynman,Richard Feynman,science,1.08,524,Random House
+36,"Farewell to Arms A",Ernest Hemingway,fiction,2.12,303,Rupa
+37,"Veteran The",Frederick Forsyth,fiction,3.43,343,Transworld
+38,False Impressions,Jeffery Archer,fiction,4.68,467,Pan
+39,"Last Lecture The",Randy Pausch,nonfiction,4.11,159,Hyperion
+40,Return of the Primitive,Ayn Rand,philosophy,3.79,477,Penguin
+41,Jurassic Park,Michael Crichton,fiction,4.12,422,Random House
+42,"Russian Journal A",John Steinbeck,nonfiction,3.5,320,Penguin
+43,Tales of Mystery and Imagination,Edgar Allen Poe,fiction,4.71,519,HarperCollins
+44,Freakonomics,Stephen Dubner,economics,3.42,349,Penguin
+45,"Hidden Connections The",Fritjof Capra,science,4.7,150,HarperCollins
+46,"Story of Philosophy The",Will Durant,philosophy,2.59,228,Pocket
+47,Asami Asami,P L Deshpande,fiction,1.78,377,Mauj
+48,Journal of a Novel,John Steinbeck,fiction,1.16,345,Penguin
+49,Once There Was a War,John Steinbeck,nonfiction,4.89,349,Penguin
+50,"Moon is Down The",John Steinbeck,fiction,3.66,261,Penguin
+51,"Brethren The",John Grisham,fiction,4.57,258,Random House
+52,In a Free State,V. S. Naipaul,fiction,4.45,155,Rupa
+53,Catch 22,Joseph Heller,fiction,4.56,358,Random House
+54,"Complete Mastermind The", BC,nonfiction,1.88,298,BBC
+55,Dylan on Dylan,Bob Dylan,nonfiction,3.3,393,Random House
+56,Soft Computing & Intelligent Systems,Madan Gupta,data_science,3.49,479,Elsevier
+57,Textbook of Economic Theory,Alfred Stonier,economics,2.81,454,Pearson
+58,Econometric Analysis,W. H. Greene,economics,3.74,373,Pearson
+59,Learning OpenCV,Gary Bradsky,data_science,3.92,289,O'Reilly
+60,Data Structures Using C & C++,Andrew Tanenbaum,computer_science,4.0,135,Prentice Hall
+61,"Computer Vision A Modern Approach",David Forsyth,data_science,2.2,575,Pearson
+62,Principles of Communication Systems,Schilling Taub,computer_science,2.79,447,TMH
+63,Let Us C,Yashwant Kanetkar,computer_science,3.94,579,Prentice Hall
+64,"Amulet of Samarkand The",Jonathan Stroud,fiction,1.15,545,Random House
+65,Crime and Punishment,Fyodor Dostoevsky,fiction,2.29,160,Penguin
+66,Angels & Demons,Dan Brown,fiction,4.53,174,Random House
+67,"Argumentative Indian The",Amartya Sen,nonfiction,1.14,596,Picador
+68,Sea of Poppies,Amitav Ghosh,fiction,3.16,524,Penguin
+69,"Idea of Justice The",Amartya Sen,nonfiction,3.38,540,Penguin
+70,"Raisin in the Sun A",Lorraine Hansberry,fiction,4.49,163,Penguin
+71,All the President's Men,Bob Woodward,history,2.6,224,Random House
+72,"Prisoner of Birth A",Jeffery Archer,fiction,4.97,503,Pan
+73,Scoop!,Kuldip Nayar,history,4.15,330,HarperCollins
+74,Ahe Manohar Tari,Sunita Deshpande,nonfiction,3.85,454,Mauj
+75,"Last Mughal The",William Dalrymple,history,4.65,390,Penguin
+76,"Social Choice & Welfare,ariou Vol 39 No. 1",economics,4.15,471,Springer
+77,Radiowaril Bhashane & Shrutika,P L Deshpande,nonfiction,2.28,388,Mauj
+78,Gun Gayin Awadi,P L Deshpande,nonfiction,1.19,571,Mauj
+79,Aghal Paghal,P L Deshpande,nonfiction,2.74,276,Mauj
+80,Maqta-e-Ghalib,Sanjay Garg,fiction,4.93,488,Mauj
+81,Beyond Degrees,Joh ayne,nonfiction,3.21,328,HarperCollins
+82,Manasa,V P Kale,nonfiction,2.85,139,Mauj
+83,India from Midnight to Milennium,Shashi Tharoor,history,4.84,255,Penguin
+84,"World's Greatest Trials The",Ra adreh,history,4.87,299,Penguin
+85,"Great Indian Novel The",Shashi Tharoor,fiction,1.35,213,Penguin
+86,O Jerusalem!,Dominique Lapierre,history,1.23,590,vikas
+87,"City of Joy The",Dominique Lapierre,fiction,2.8,368,vikas
+88,Freedom at Midnight,Dominique Lapierre,history,4.04,567,vikas
+89,"Winter of Our Discontent The",John Steinbeck,fiction,4.43,402,Penguin
+90,On Education,Bertrand Russell,philosophy,3.82,188,Routledge
+91,Free Will,Sam Harris,philosophy,1.04,196,FreePress
+92,Bookless in Baghdad,Shashi Tharoor,nonfiction,1.05,578,Penguin
+93,"Case of the Lame Canary The",Earle Stanley Gardner,fiction,1.18,371,Random House
+94,"Theory of Everything The",Stephen Hawking,science,3.69,208,Jaico
+95,New Markets & Other Essays,Peter Drucker,economics,2.91,505,Penguin
+96,Electric Universe,David Bodanis,science,4.44,146,Penguin
+97,"Hunchback of Notre Dame The",Victor Hugo,fiction,4.91,557,Random House
