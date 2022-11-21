@@ -11,6 +11,9 @@ public class NuskaitytiIsFailo {
        catch (FileNotFoundException e){
            System.out.println("Failas nerastas");
        }
+
+
+
     }
     public static  ArrayList<Knyga> nuskaitytiDuomenisIsFailo(String failoAdresas) throws Exception{
         File failas = new File("knygos_pataisyta.csv");
@@ -31,5 +34,13 @@ public class NuskaitytiIsFailo {
            System.out.println("knyga1 = " + knyga1);
        }
         return knyga;
+    }
+
+    public static double bendrasPuslapiuSkaicius(ArrayList<Knyga> knyga1){
+        double suma = 0;
+        for (Knyga knyga : knyga1 ){
+            suma += knyga.getPuslapiuSkaicius();
+        }
+        return suma;
     }
 }
